@@ -7,7 +7,7 @@ const experiences = [
   {
     icon: <GraduationCap size={28} className="text-blue-400" />,
     title: "Full-stack Development Journey",
-    period: "2025 - Present",
+    period: "2026 - Present",
     description:
       "Learning modern frontend and backend development with HTML, CSS, JavaScript, React, Next.js, Tailwind CSS and other key concepts of web development for a full stacker.",
   },
