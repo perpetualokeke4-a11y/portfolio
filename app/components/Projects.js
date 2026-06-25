@@ -20,7 +20,7 @@ const projects = [
     image: "/images/glotech.png",
     tech: ["Next.js", "React", "JavaScript", "Tailwind CSS"],
     github: "https://github.com/perpetualokeke4-a11y/glotech",
-    live: "https://glotech.vercel.app/",
+    live: "https://glotech-psi.vercel.app/",
   },
 ];
 
